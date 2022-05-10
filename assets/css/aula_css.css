@@ -1,0 +1,22 @@
+/* Tipos de Seletores
+    - Nome da TAG => Aplica o estilo em todas as tags selecionadas
+    - Classe => Aplica o estilo apenas em tags que tem essa classe
+    - ID =>                          (não pode se repetir)
+
+    Seletor{
+        corFundo: red;
+        fonte:20px;      
+    }
+*/
+
+/*Elemento*/
+h1{
+    color:blue
+}
+
+/* Classe Apelido*/
+.linguagem{
+    background-color: red;
+    color: aliceblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
